@@ -4,7 +4,7 @@
 
 # Alberto Ferragosti
 
-**sysadmin che scrive troppo Python · studente di Data Science @ Ca' Foscari · fonico prestato all'IT**
+**System Administrator · Data & AI · IT Project Manager**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alberto--ferragosti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alberto-ferragosti)
 [![Email](https://img.shields.io/badge/Email-alberto.ferragosti@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alberto.ferragosti@gmail.com)
@@ -18,48 +18,44 @@
 $ whoami
 ```
 
-Di lavoro tengo in piedi infrastrutture: server, reti, sicurezza — la roba di cui nessuno si accorge finché funziona.
-Per interesse scrivo codice, alleno modelli e smonto problemi con i dati.
-Prima ancora facevo il fonico, e in un certo senso lo faccio ancora: cambia solo lo strumento.
+Progetto e gestisco infrastrutture IT, con una forte inclinazione verso dati e automazione. Scrivo codice per rendere i sistemi più affidabili e le decisioni più informate — dal monitoring in Python ai modelli di machine learning. Prima dell'IT ho lavorato a lungo nella produzione audio: la stessa attenzione al dettaglio, un altro strumento.
 
 ```console
-$ cat interests.md
+$ focus
 ```
 
-- 🤖 **Machine learning & NLP** — dai classificatori "seri" ai progetti inutili ma divertenti (tipo un crawler di discografie)
-- 🐍 **Automazione** — se lo faccio due volte, lo scripto
-- 📊 **Dati** — dal CSV grezzo al grafico che dice davvero qualcosa
-- 🧠 **LLM & AI applicata** — capire dove serve davvero, e dove è solo hype
-- 🎧 **Audio & produzione musicale** — il primo linguaggio che ho imparato
-- 🏔️ **Montagna** — quando il terminale può aspettare
+- **Machine learning & NLP** applicati a problemi reali
+- **Automazione e scripting** — Python, Bash, PowerShell
+- **Data pipeline, ETL e visualizzazione**
+- **Infrastruttura, sicurezza e affidabilità** dei sistemi
 
 ```console
-$ stack --favourites
+$ stack
 ```
 
 `Python` · `scikit-learn` · `TensorFlow` · `pandas` · `FastAPI` · `SQL`
 `Docker` · `Git` · `Bash` / `PowerShell` · `Grafana` / `Superset` · `Azure`
 
 ```console
-$ git log --oneline --author=alberto
+$ experience
 ```
 
 ```text
-2025  System Administrator @ Manens Spa      infra · sicurezza · automazioni
-2024  IT PM & Data Analyst @ Ceccato Motors  ML · ETL · dashboard · REST API
-2018  ICT Support @ Ceccato Motors           10 sedi · ~1k ticket/mese
-2018  Founder & fonico @ Iohoo Records       audio/video · eventi live
-2022  Data Science @ Ca' Foscari             (in corso)
+2025  System Administrator @ Manens Spa           infrastruttura · sicurezza · automazioni
+2024  IT Project Manager & Data Analyst @ Ceccato Motors   ML · ETL · dashboard · REST API
+2018  ICT Support Specialist @ Ceccato Motors     10 sedi · ~1k ticket/mese
+2018  Founder & Sound Engineer @ Iohoo Records    produzione audio/video · eventi live
+2022  Data Science @ Ca' Foscari                  (in corso)
 ```
 
 ```console
-$ echo $CURRENT_FOCUS
+$ now
 ```
 
-LLM applicati a cose vere, piccoli tool che poi si usano davvero, e quella laurea da finire.
+Studio Data Science a Ca' Foscari e lavoro su applicazioni concrete di AI e automazione — con l'obiettivo di capire dove queste tecnologie fanno davvero la differenza.
 
 ---
 
 <div align="center">
-<sub>📍 Padova · sempre curioso, raramente fermo</sub>
+<sub>📍 Padova, Italia</sub>
 </div>
